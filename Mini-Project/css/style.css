@@ -94,3 +94,10 @@ input {
     margin-top: 15px;
 }
 
+footer {
+    background-color: darkblue;
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    color: white;
+}
